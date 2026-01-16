@@ -4,8 +4,10 @@
 - [Archivo que se utiliza con pytest para hacer las pruebas](https://github.com/mariaelisaaraya/M1000IA/blob/2e90d79719e22be8ebb1adfe6bec1046ff995cfe/testModel/test_predictModel.py)
 - [Modelos Completo en versión Tensor Flow h5](https://github.com/mariaelisaaraya/M1000IA/blob/master/modelo%20ajustado%2099%25/modelo_final.h5) 
 - [Modelos Completo en versión Tensor Flow keras](https://github.com/mariaelisaaraya/M1000IA/blob/master/modelo%20ajustado%2099%25/dermai_model.keras)
+- 
 
-Sección: Imágenes y Consideraciones Éticas
+ <h2>Sección: Imágenes y Consideraciones Ética</h2>
+ 
 Uso de Imágenes en el Proyecto DermAI
 
 Este proyecto utiliza imágenes dermatológicas con fines exclusivamente educativos, de investigación y prueba del modelo.
